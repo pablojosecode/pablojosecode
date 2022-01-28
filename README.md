@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pablojosecode
-- 👀 I’m interested in Python and big data
-- 🌱 I’m currently learning functional programming and Docker technologies
-- 💞️ I’m looking to collaborate on open source Python and Java focused projects
+- I'm a junior at the University of San Francisco and am interested in big data.
 
 
 <!---
