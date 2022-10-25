@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pablojosecode
-- I'm a junior at the University of San Francisco and am interested in big data.
 
 
 <!---
